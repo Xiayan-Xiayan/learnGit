@@ -4,4 +4,4 @@ Git is a open-resource software.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a git branch is quick and simple.
-Git branch management.
+Git is good for branch management.
